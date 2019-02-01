@@ -1,6 +1,3 @@
 # Data Structures in Python
 
-This repository contains implementation of data structures such as binary search tree, stack, linked list with interesting operations on them.
-
-
-
+This repository contains implementation of data structures such as binary search tree, stack, linked list with interesting problems/exercises. It might help students/professionals during their interview process.
