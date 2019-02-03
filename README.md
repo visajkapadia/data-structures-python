@@ -29,3 +29,9 @@ This repository contains implementation of data structures such as binary search
 * [Search](https://github.com/visajkapadia/data-structures-python/blob/master/SinglyLinkedList/search.py)
 * [Singly LinkedList](https://github.com/visajkapadia/data-structures-python/blob/master/SinglyLinkedList/singly_linked_list.py)
 
+
+### Stack
+
+* [Reverse stack](https://github.com/visajkapadia/data-structures-python/blob/master/Stack/reverse_stack.py)
+* [Sort stack using temporary stack](https://github.com/visajkapadia/data-structures-python/blob/master/Stack/sort_stack_using_temporary_stack.py)
+* [Stack](https://github.com/visajkapadia/data-structures-python/blob/master/Stack/stack.py)
