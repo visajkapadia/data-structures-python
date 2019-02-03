@@ -4,7 +4,7 @@ This repository contains implementation of data structures such as binary search
 
 ## Data Structure Implementation
 
-1. [Binary Search Tree](https://github.com/visajkapadia/data-structures-python/blob/master/BinarySearchTree/binary_search_tree.py)
+#### 1. [Binary Search Tree](https://github.com/visajkapadia/data-structures-python/blob/master/BinarySearchTree/binary_search_tree.py)
 
 ### Exercises
 
