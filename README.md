@@ -2,9 +2,9 @@
 
 This repository contains implementation of data structures such as binary search tree, stack, linked list with interesting problems/exercises. It might help students/professionals during their technical interview process.
 
-## Data Structure Implementation
+### Binary Search Tree
 
-#### 1. [Binary Search Tree](https://github.com/visajkapadia/data-structures-python/blob/master/BinarySearchTree/binary_search_tree.py)
+* [Implementation](https://github.com/visajkapadia/data-structures-python/blob/master/BinarySearchTree/binary_search_tree.py)
 * [Height](https://github.com/visajkapadia/data-structures-python/blob/master/BinarySearchTree/height.py)
 * [Inverse inorder](https://github.com/visajkapadia/data-structures-python/blob/master/BinarySearchTree/inverse_inorder.py)
 * [Invert tree](https://github.com/visajkapadia/data-structures-python/blob/master/BinarySearchTree/invert_binary_tree.py)
