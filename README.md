@@ -8,7 +8,7 @@ This repository contains implementation of data structures such as binary search
 
 ### Exercises
 
-1. [Height](https://github.com/visajkapadia/data-structures-python/blob/master/BinarySearchTree/height.py)
+* [Height](https://github.com/visajkapadia/data-structures-python/blob/master/BinarySearchTree/height.py)
 2. [Inverse inorder](https://github.com/visajkapadia/data-structures-python/blob/master/BinarySearchTree/inverse_inorder.py)
 3. [Invert tree](https://github.com/visajkapadia/data-structures-python/blob/master/BinarySearchTree/invert_binary_tree.py)
 4. [Iterative inorder](https://github.com/visajkapadia/data-structures-python/blob/master/BinarySearchTree/iterative_inorder.py)
