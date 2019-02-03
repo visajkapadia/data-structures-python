@@ -7,4 +7,4 @@ This repository contains implementation of data structures such as binary search
 
 | Problem  | Code |
 | ------------- | ------------- |
-| recursive inorder  | recursive_inorder(https://github.com/visajkapadia/data-structures-python/blob/master/BinarySearchTree/recursive_inorder_traverse.py)  |
+| recursive inorder  | [recursive_inorder](https://github.com/visajkapadia/data-structures-python/blob/master/BinarySearchTree/recursive_inorder_traverse.py)  |
