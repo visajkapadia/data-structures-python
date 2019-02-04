@@ -29,7 +29,3 @@ class Stack:
 
     from Stack.sort_stack_using_temporary_stack import sort_stack_using_temporary_stack
     from Stack.reverse_stack import reverse_stack
-
-
-
-
