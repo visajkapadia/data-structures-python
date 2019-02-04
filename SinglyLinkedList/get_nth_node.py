@@ -1,5 +1,5 @@
 def get_nth_node(self, n):
-    # 0(n)
+    # O(n)
     if n < 0:
         return
 

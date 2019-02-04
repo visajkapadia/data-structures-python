@@ -24,3 +24,4 @@ class SinglyLinkedList:
     from SinglyLinkedList.recursive_reverse_print import reverse_print_recursive
     from SinglyLinkedList.print_linked_list import print_list
     from SinglyLinkedList.get_nth_node import get_nth_node
+    from SinglyLinkedList.has_loop import has_loop
