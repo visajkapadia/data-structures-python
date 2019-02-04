@@ -9,8 +9,8 @@ This repository contains implementation of data structures such as binary search
 * [Inverse inorder](https://github.com/visajkapadia/data-structures-python/blob/master/BinarySearchTree/inverse_inorder.py)
 * [Invert tree](https://github.com/visajkapadia/data-structures-python/blob/master/BinarySearchTree/invert_binary_tree.py)
 * [Iterative inorder](https://github.com/visajkapadia/data-structures-python/blob/master/BinarySearchTree/iterative_inorder.py)
-* [Recursive inorder](https://github.com/visajkapadia/data-structures-python/blob/master/BinarySearchTree/recursive_inorder_traverse.py)
-* [Recursive postorder](https://github.com/visajkapadia/data-structures-python/blob/master/BinarySearchTree/recursive_postorder_traversal.py)
+* [Recursive inorder](https://github.com/visajkapadia/data-structures-python/blob/master/BinarySearchTree/recursive_inorder.py)
+* [Recursive postorder](https://github.com/visajkapadia/data-structures-python/blob/master/BinarySearchTree/recursive_postorder.py)
 * [Recursive preorder](https://github.com/visajkapadia/data-structures-python/blob/master/BinarySearchTree/recursive_preorder.py)
 * [Search](https://github.com/visajkapadia/data-structures-python/blob/master/BinarySearchTree/search.py)
 * [Unival Tree](https://github.com/visajkapadia/data-structures-python/blob/master/BinarySearchTree/unival_tree.py)
@@ -29,3 +29,9 @@ This repository contains implementation of data structures such as binary search
 * [Search](https://github.com/visajkapadia/data-structures-python/blob/master/SinglyLinkedList/search.py)
 * [Singly LinkedList](https://github.com/visajkapadia/data-structures-python/blob/master/SinglyLinkedList/singly_linked_list.py)
 
+
+### Stack
+
+* [Reverse stack](https://github.com/visajkapadia/data-structures-python/blob/master/Stack/reverse_stack.py)
+* [Sort stack using temporary stack](https://github.com/visajkapadia/data-structures-python/blob/master/Stack/sort_stack_using_temporary_stack.py)
+* [Stack](https://github.com/visajkapadia/data-structures-python/blob/master/Stack/stack.py)
